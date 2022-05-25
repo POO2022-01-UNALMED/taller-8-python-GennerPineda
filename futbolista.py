@@ -1,5 +1,5 @@
-from Deportista import Deportista
-from Persona import Persona
+from deportista import Deportista
+from persona import Persona
 
 
 class Futbolista(Persona, Deportista):
